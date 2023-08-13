@@ -1,5 +1,5 @@
 # Data Scientist                                                  
-### Contact: Email: reachme.adityag@gmail.com (mailto: reachme.adityag@gmail.com)
+### Contact: reachme.adityag@gmail.com (+91-9844477649)
 
 ## Work Experience
 **Associate Vice President - Decision Sciences @ HSBC (_March 2021 - Present_)**
