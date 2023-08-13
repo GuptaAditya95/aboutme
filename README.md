@@ -1,55 +1,79 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
-
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
-
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Associate Vice President - Decision Sciences @ HSBC (_March 2021 - Present_)**
+- Integral member of the advanced analytics team for Risk and Compliance Assurance Services (RCAS)
+- Pioneered the first advanced analytics model to achieve production in the RCAS function, gaining regulatory approval. The model provided 
+essential assurance for customer outcomes, addressing complaints received through the centralized CMS (Complaints Management System). This was a regulatory effort mandated by DFSA
+- Employed speech and text-based analytics to ensure fair treatment of vulnerable customers, providing assurance for underwriting and 
+collections procedures in the bank
+- Designed a framework using text similarity metrics to detect instances of controls being copied by various teams, mitigating major risks during 
+control audits Internal audit requirements were being assessed with the outcomes of the project
+- Developed an ontology-based system for creating a localized Natural Language to SQL framework, empowering non-technical business 
+personnel to access critical data insights without the need for Data Analysts
+- Led the creation of an internal large language model based chatbot, enabling efficient navigation of global financial crimes and policy 
+documents. The chatbot extracts information from the largest regulators and offers comprehensive responses to policy-related questions
+- Delivered training sessions to colleagues and leadership on the latest advancements in AI and the foundational principles of Machine Learning,
+fostering a culture of continuous learning and upskilling within the organization
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Data Science and Analytics Manager @ Mu Sigma (_October 2017 - April 2021_)**
+- Collaborated within Johnson and Johnson's data science team, contributing to the development of advanced analytical solutions for drug 
+discovery and streamlining clinical trial site selection for the esteemed pharmaceutical arm, Janssen
+- Demonstrated leadership by guiding a team of three in the creation of a highly effective LSTM-based "Next based recommendation" 
+framework for the Medical Devices arm, leading to a remarkable 2% YoY increase in sales revenue
+- Innovatively designed “What-if “scenario-based models to tackle territory optimization problems, providing data-driven insights for improved 
+decision-making
+- Spearheaded the creation of a robust model for identifying key opinion leaders, significantly enhancing training and marketing-related activities 
+within the organization
+- Successfully developed classification-based models that proved instrumental in facilitating clinical site selection for the R&D team, optimizing 
+the efficiency of their research efforts
+- Published internal papers on synthetic anonymous data creation for robust model training, demonstrating expertise in data anonymization 
+techniques and contributing to the organization's thought leadership in data science
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+## Teaching
+### Data Science Instructor @ Bloomtech (Formerly Lambda Schools) | USA (Remote) (_July 2022 - Present_)
+- Successfully taught students from non-coding backgrounds, facilitating their transition into data careers, showcasing patience and resilience in 
+helping them grasp complex concepts and excel in interviews
+- Provided personalized guidance and feedback to students, aiding them in understanding code and developing skills in writing efficient and 
+effective code
+- Introduced students to the potential of GPT-based models for learning new concepts, while also highlighting their limitations to foster a well-rounded understanding
+- Developed comprehensive coursework incorporating various projects and assignments, equipping students with practical experience to 
+reinforce theoretical knowledge
+- Received consistently positive and helpful feedback on teaching style, reflecting my dedication to creating a supportive and engaging learning 
+environment
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+[Testimonial From Students](https://drive.google.com/file/d/1JjY1-1kASLo2-8KvOwMSKg6FnsyRHqV4/view?usp=sharing)
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+## Lab and Research Work
+**Data Science Consultant - [Sahapedia Labs](https://www.sahapedia.org/about-us)**
+- Sahapedia is an open encyclopedic resource on the arts, cultures and histories of India. Sahapedia offers digital content in multimedia format—articles and books, photo essays and video, interviews and oral histories, maps and timelines, authored by scholars and curated by experts. Subject areas range from ideas and belief systems, rituals and practices, to visual and performing arts
+- During my tenure as a consultant and data scientist at Sahapedia Labs, I had the privilege to contribute to a project that aligned perfectly with my passion for arts, cultures, and technology. Sahapedia, being an open encyclopedic resource focused on the diverse arts, cultures, and histories of India, provided a unique platform to explore and innovate in the realm of digital content creation and curation
+- Our primary project was centered around creating an innovative application for the editors at Sahapedia, aimed at streamlining the annotation process for the latest articles. The goal was to simplify the annotation process by leveraging Named Entity Recognition (NER) technology, enabling editors to quickly and accurately annotate articles
+  - One of the key aspects of the project was implementing a Named Entity Recognizer. This technology identified entities such as names of people, places, organizations, events, and more within the articles. Editors could then easily select from suggested annotations, saving time and ensuring consistency in the annotation process
+  - A significant part of our project involved the creation of ontologies related to cultures, beliefs, practices, and other subject areas covered by Sahapedia. These ontologies organized information hierarchically and helped establish relationships between different cultural elements
+  - Once the ontologies were established, we utilized Neo4j, a powerful graph database, to visually represent these relationships. The graph visualization provided an intuitive and dynamic way to explore connections between various cultural elements, enhancing the overall user experience and understanding
+- Throughout the project, collaboration with scholars, experts, and curators was crucial. Their insights and domain knowledge were instrumental in refining the NER suggestions, creating accurate ontologies, and ensuring the cultural context was appropriately represented in the graph visualization
+- The application we developed not only streamlined the annotation process but also enhanced the quality and consistency of annotations across Sahapedia's vast content. Additionally, the Neo4j-based graph visualization provided a dynamic way for users to explore the intricate web of cultural connections
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+**Research Intern @ Medical Imaging Research Center (Dept. of Medical Electronics, Dayananda Sagar Institutions,Bangalore) (_Jan 2017 - Jul 2017_)**
+- Interned at Medical Imaging Research Center (MIRC), collaborating on a project funded by the Department of Science and Technology, India, 
+to reconstruct a low-cost MRI machine
+- Designed and developed a critical Gradient Power Amplifier to handle large currents, contributing to essential power electronics subsystems 
+for the MRI machine under the guidance of [Prof Sairam Geethanath](https://mr.research.columbia.edu/content/sairam-geethanath)
+- Conducted in-house test, simulation, and PCB design for the Gradient Power Amplifier, directly impacting the development of the MRI 
+machine at the research center
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+**Lab Intern @ Arduino Inc India (_Jun 2016 - Jul 2017_)**
+- During my internship at Arduino Labs India, I had the opportunity to work on a significant project that revolved around developing a high-current capacity motor driver board. Arduino Labs India, being the sole office of Arduino in the country, offered an exciting environment to contribute to cutting-edge technology and innovation
+- My primary project involved the design, development, and optimization of a high-current capacity motor driver board. This board was intended to be an essential component in the production pipeline, catering to a global audience of hobbyists, makers, and robotics enthusiasts who utilize Arduino platforms.
+  - A crucial initial phase of the project involved in-depth research to understand the specific requirements and challenges of the high-current motor driver. This phase helped in setting clear design goals and identifying potential technical obstacles to overcome.
+  - Once the design goals were established, I was involved in creating the layout for the motor driver board. This process required careful consideration of components' placements, traces, and connections to ensure optimal performance and efficiency.
+  - Before moving to the manufacturing phase, rigorous simulation and testing were conducted to validate the board's functionality and performance under various scenarios. This step aimed to catch any design flaws or issues before moving forward.
+  - Collaborating with production teams, I contributed to integrating the motor driver board into the manufacturing pipeline. This included addressing any manufacturing-specific challenges and ensuring seamless scalability for mass production.
+- As part of enhancing my understanding of servo motors and their applications, I had the opportunity to attend robotics trade fairs. These visits provided invaluable insights into the industry trends, applications of servo motors, and allowed me to connect with experts and enthusiasts.
+- The motor driver board's significance lay in its ability to empower hobbyists and makers to experiment with precision control of motors. This resonated with Arduino's ethos of enabling creativity and innovation within the maker community.
+- Working on a project that was slated for worldwide production underscored the global impact of my contributions. The board I contributed to would find its way into projects and experiments in various corners of the world, enriching the DIY and robotics landscape.
 
-![Bike Study](/assets/img/bike_study.jpeg)
-
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
 ## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
-
-- [Data Science Blog](https://medium.com/@shawhin)
+1. Aditya G., Ramasubramaniam S, Lalith K, Rajeev Anand and Sivanaveen R. Redressal of Customer Grievances using Advanced Text Analytics Techniques (2022). HSBC Internal
