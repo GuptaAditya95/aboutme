@@ -1,5 +1,5 @@
 # Data Scientist                                                  
-### Contact: reachme.adityag@gmail.com (+91-9844477649)
+
 
 ## Work Experience
 **Associate Vice President - Decision Sciences @ HSBC (_March 2021 - Present_)**
@@ -80,3 +80,5 @@ machine at the research center
 
 ## Publications
 1. Aditya G., Ramasubramaniam S, Lalith K, Rajeev Anand and Sivanaveen R. Redressal of Customer Grievances using Advanced Text Analytics Techniques (2022). HSBC Internal
+
+### Contact: reachme.adityag@gmail.com (+91-9844477649)
