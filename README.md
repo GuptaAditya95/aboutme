@@ -44,7 +44,7 @@ environment
 
 [Testimonial From Students](https://drive.google.com/file/d/1JjY1-1kASLo2-8KvOwMSKg6FnsyRHqV4/view?usp=sharing)
 
-###Prof Catto My inspurrration
+### Prof Catto My inspurrration
 ![Prof. Kittu my inspiration](/assets/img/kittu_2.jpg)
 ## Lab and Research Work
 **Data Science Consultant - [Sahapedia Labs](https://www.sahapedia.org/about-us)**
