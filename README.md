@@ -44,6 +44,8 @@ environment
 
 [Testimonial From Students](https://drive.google.com/file/d/1JjY1-1kASLo2-8KvOwMSKg6FnsyRHqV4/view?usp=sharing)
 
+
+(/assets/img/kittu_2.jpg)
 ## Lab and Research Work
 **Data Science Consultant - [Sahapedia Labs](https://www.sahapedia.org/about-us)**
 - Sahapedia is an open encyclopedic resource on the arts, cultures and histories of India. Sahapedia offers digital content in multimedia format—articles and books, photo essays and video, interviews and oral histories, maps and timelines, authored by scholars and curated by experts. Subject areas range from ideas and belief systems, rituals and practices, to visual and performing arts
